@@ -1,0 +1,101 @@
+.trolley img {
+    padding: 5px;
+    width: 30%;
+ 
+    height: 90px !important;
+}
+
+#map {
+height: 100%;
+}
+
+
+.trolley li {
+    border-bottom: solid 1px #ccc;
+}
+
+.listProduct .captionMainProduct h3 {
+
+    height: 15;
+}
+.w-100 {
+    width: 100%!important;
+    /* height: 450px; */
+}
+
+img#preview-user-profile,
+img#main-img-profile{
+  height: 99px;
+  width: 99px;
+  object-fit: cover;
+} 
+
+button{
+    cursor:pointer;
+}
+.trolley {
+    top: 68px !important;
+    left: 102px;
+}
+#cover{
+    position: fixed !important;
+}
+.no-border {
+height: 42px;
+}
+
+/* Custom mobile  */
+.bg-white-logo {
+    padding-bottom: 0em;
+}
+
+@media screen and (max-width: 768px){
+    .headerMobile .burgerFixer {
+        margin-top: 0px !important;
+    }
+}
+#Diskusi .question .answer-write .btn {
+    display: block;
+}
+img.empty-trolli {
+    height: 40px !important;
+    padding: 0px;
+    width: 40px;
+}
+.banner-promo img {
+    height: 408px;
+}
+
+li.hot_promo a img {
+    height: auto !important;
+}
+.desk-active {
+    color: #ffe0a1 !important;
+}
+.bg-top-product .disc{
+z-index: 1;
+}
+.gambar-gabung {
+    position: relative;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.top-product .captionMainProduct .addTroli {
+    background: #337ab7;
+  }
+/* 
+@media screen and (max-width: 768px){
+    .headerMobile .form-inline input {
+        width: 70% !important;
+        font-size: 10px;
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .headerMobile .form-inline i.fa.fa-search {
+       
+        left: 60% !important;
+    }
+} */
+

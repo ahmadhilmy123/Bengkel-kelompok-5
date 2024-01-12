@@ -19,7 +19,7 @@ function getUsers() {
   
     if (user) {
       alert('Login successful!');
-      window.location.href = 'dashboard.html';
+      window.location.href = '../admin/pembayaran/index.html';
     } else {
       alert('Invalid username or password.');
     }
